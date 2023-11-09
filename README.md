@@ -32,8 +32,6 @@ WorldWise is a travel tracking application that allows you to record your advent
 - **React Router**: Declarative navigation for React applications.
 - **CSS Modules**: Scoped styling for component-based design.
 - **Node.js**: JavaScript runtime for server-side scripting.
-- **Express**: Web application framework for Node.js.
-- **SQLite**: Embedded database for storing city and user data.
 
 ## Getting Started
 
@@ -41,3 +39,13 @@ WorldWise is a travel tracking application that allows you to record your advent
    ```bash
    git clone https://github.com/your-username/worldwise.git
    cd worldwise
+
+   ```bash
+2.  **Install Dependencies:**
+npm install
+
+3. **Start the Application:**
+npm run dev
+
+4. **Start the Server:**
+npm run server
