@@ -4,7 +4,6 @@
 
 WorldWise is a travel tracking application that allows you to record your adventures and explore cities around the globe. Never forget a memorable journey, and share your travel map with friends.
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
