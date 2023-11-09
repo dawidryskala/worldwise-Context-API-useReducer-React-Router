@@ -37,7 +37,7 @@ https://github.com/dawidryskala/worldwise-Context-API-useReducer-React-Router/as
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/worldwise.git
+   git clone https://github.com/dawidryskala/worldwise-Context-API-useReducer-React-Router.git
    cd worldwise
    ```
    
