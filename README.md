@@ -41,7 +41,7 @@ WorldWise is a travel tracking application that allows you to record your advent
    cd worldwise
    ```
    
-2.  **Install Dependencies:**
+2. **Install Dependencies:**
    ```bash
    npm install
    ```
