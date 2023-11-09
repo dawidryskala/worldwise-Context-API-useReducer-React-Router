@@ -11,7 +11,6 @@ WorldWise is a travel tracking application that allows you to record your advent
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Additional Information](#additional-information)
 
@@ -71,10 +70,6 @@ WorldWise is a travel tracking application that allows you to record your advent
 
 ### Login:
 - Secure your travel history with a personalized login.
-
-## Contributing
-
-We welcome contributions! Please follow our [Contribution Guidelines](CONTRIBUTING.md) for details on the process.
 
 ## License
 
