@@ -44,11 +44,14 @@ WorldWise is a travel tracking application that allows you to record your advent
 2.  **Install Dependencies:**
    ```bash
    npm install
+   ```
 
 4. **Start the Application:**
    ```bash
    npm run dev
+   ```
 
 5. **Start the Server:**
    ```bash
    npm run server
+   ```
