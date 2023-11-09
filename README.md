@@ -40,12 +40,15 @@ WorldWise is a travel tracking application that allows you to record your advent
    git clone https://github.com/your-username/worldwise.git
    cd worldwise
 
-   ```bash
+   
 2.  **Install Dependencies:**
-npm install
+   ```bash
+   npm install
 
-3. **Start the Application:**
-npm run dev
+4. **Start the Application:**
+   ```bash
+   npm run dev
 
-4. **Start the Server:**
-npm run server
+5. **Start the Server:**
+   ```bash
+   npm run server
