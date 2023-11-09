@@ -39,7 +39,7 @@ WorldWise is a travel tracking application that allows you to record your advent
    ```bash
    git clone https://github.com/your-username/worldwise.git
    cd worldwise
-
+   ```
    
 2.  **Install Dependencies:**
    ```bash
