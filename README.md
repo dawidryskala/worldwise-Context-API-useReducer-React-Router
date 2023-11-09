@@ -12,7 +12,6 @@ WorldWise is a travel tracking application that allows you to record your advent
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [License](#license)
-- [Additional Information](#additional-information)
 
 ## Introduction
 
@@ -74,22 +73,6 @@ WorldWise is a travel tracking application that allows you to record your advent
 ## License
 
 This project is licensed under the MIT License.
-
-## Additional Information
-
-As a recruiter in the IT industry, I would like to highlight the following aspects of the project:
-
-- **Code Quality:** The project follows best practices and maintains high code quality standards, making it easy for developers to collaborate and contribute.
-
-- **Security:** The application implements a secure login system to protect user data, ensuring a safe and reliable experience for users.
-
-- **Technological Stack:** The use of modern technologies such as React, React Router, Node.js, and Express showcases the project's commitment to staying current and leveraging cutting-edge tools for development.
-
-- **Scalability:** The modular architecture and use of CSS Modules demonstrate a scalable and maintainable codebase, allowing for future enhancements and feature additions.
-
-- **User Experience:** With an interactive map and intuitive user interface, WorldWise provides an enjoyable experience for users, making it an engaging platform for travel enthusiasts.
-
-Feel free to explore the project and reach out if you have any questions or need further information!
 
 
 
