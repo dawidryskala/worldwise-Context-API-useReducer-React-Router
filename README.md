@@ -4,7 +4,6 @@
 
 WorldWise is a travel tracking application that allows you to record your adventures and explore cities around the globe. Never forget a memorable journey, and share your travel map with friends.
 
-https://github.com/dawidryskala/worldwise-Context-API-useReducer-React-Router/assets/141305850/181da26f-d38d-4a38-8c14-7099265a22f5
 
 ## Table of Contents
 
@@ -14,6 +13,8 @@ https://github.com/dawidryskala/worldwise-Context-API-useReducer-React-Router/as
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [License](#license)
+
+https://github.com/dawidryskala/worldwise-Context-API-useReducer-React-Router/assets/141305850/181da26f-d38d-4a38-8c14-7099265a22f5
 
 ## Introduction
 
